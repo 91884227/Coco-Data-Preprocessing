@@ -12,7 +12,7 @@ Filename_adjust.npy
 
 ### example 
 ```
-coco_title_category_1_to_100_MAX_3.csv
+python Coco_preprocessing.py coco_title_category_1_to_100_MAX_3.csv
 ```
 即可產生 
 coco_title_category_1_to_100_MAX_3_adjust.csv
