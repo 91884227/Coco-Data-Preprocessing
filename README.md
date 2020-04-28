@@ -2,11 +2,19 @@
 
 
 ## usage
-python Coco_preprocessing.py coco_title_category_1_to_100_MAX_3.csv
+"""
+python Coco_preprocessing.py Filename
+"""
+Filename 為檔案名稱
+### example 
+"""
+coco_title_category_1_to_100_MAX_3.csv
+"""
 
 即可產生 
-
-coco_title_category_1_to_100_MAX_3_adjust.npy
+Filename_adjust.npy
+### example 
+coco_title_category_1_to_100_MAX_3_adjust.csv
 
 _Remark:_ file的格式必須為:
 
